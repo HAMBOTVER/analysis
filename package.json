@@ -1,0 +1,22 @@
+{
+  "name": "session-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HAMBOTVER/session-analysis.git"
+  },
+  "author": "Alexander Choban",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HAMBOTVER/session-analysis/issues"
+  },
+  "homepage": "https://github.com/HAMBOTVER/session-analysis#readme",
+  "dependencies": {
+    "zlib": "^1.0.5"
+  }
+}
